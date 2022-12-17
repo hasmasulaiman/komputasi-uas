@@ -1,0 +1,2 @@
+# komputasi-uas
+tugas uas
